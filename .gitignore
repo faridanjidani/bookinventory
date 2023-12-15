@@ -1,0 +1,49 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# CMake build directory
+build/
+bin/
+
+# Visual Studio Code directories
+.vscode/
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+
+# Sublime Text
+*.sublime-workspace
+
+# Eclipse
+.settings/
+
+# Code::Blocks
+*.depend
+
+# CodeLite
+*.workspace
+
+
+
